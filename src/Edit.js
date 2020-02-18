@@ -86,7 +86,7 @@ export default class Edit extends Component {
                         </textarea>
                     </div>
                     <div>
-                        <button type="submit">Submit</button>
+                        <button type="submit">Save</button>
                         <button type="button" onClick={this.handleCancel}>Cancel</button>
                     </div>
                 </form>
